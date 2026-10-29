@@ -73,7 +73,7 @@ Before running the application, install:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/Venkat-Dev1/PDF-RAG-Assistant
 cd your-repository
 ```
 
